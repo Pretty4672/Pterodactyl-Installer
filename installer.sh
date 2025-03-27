@@ -1136,15 +1136,16 @@ oscheck(){
 ### Options ###
 
 options(){
-    echo "What would you like to do?"
+    echo "jangan lupa support vegue store"
+    echo "apa yg ingin anda lakukan"
     echo "[1] Install Panel"
     echo "[2] Install Wings"
     echo "[3] Panel & Wings"
     echo "[4] Install PHPMyAdmin"
-    echo "[5] Remove PHPMyAdmin"
-    echo "[6] Remove Wings"
-    echo "[7] Remove Panel"
-    echo "[8] Switch Pterodactyl Domain"
+    echo "[5] Hapus PHPMyAdmin"
+    echo "[6] Hapus Wings"
+    echo "[7] Hapus Panel"
+    echo "[8] Ganti Pterodactyl Domain"
     echo "Input 1-8"
     read -r option
     case $option in
@@ -1164,7 +1165,7 @@ options(){
             phpmyadmin
             ;;
         5 ) option=5
-            removephpmyadmin
+            hapusphpmyadmin
             ;;
         6 ) option=6
             wings_remove
@@ -1173,7 +1174,7 @@ options(){
             uninstallpanel
             ;;
         8 ) option=8
-            switchdomains
+            gantidomains 
             ;;
         * ) echo ""
             echo "Please enter a valid option from 1-8"
