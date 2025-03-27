@@ -4,7 +4,7 @@
 ########################################################################
 #                                                                      #
 #            Pterodactyl Installer, Updater, Remover and More          #
-#            Copyright 2025, Malthe K, <me@malthe.cc> hej              # 
+#            Copyright 2025, HanCokk K, <me@malthe.cc> hej              # 
 #  https://github.com/guldkage/Pterodactyl-Installer/blob/main/LICENSE #
 #                                                                      #
 #  This script is not associated with the official Pterodactyl Panel.  #
@@ -1188,8 +1188,8 @@ echo ""
 echo "-------------------------------------------------------------------"
 echo ""
 echo "Pterodactyl Installer @ v3.0"
-echo "Copyright 2025, Malthe K, <me@malthe.cc>"
-echo "https://github.com/guldkage/Pterodactyl-Installer"
+echo "Copyright 2025, HanCokk K, <me@malthe.cc>"
+echo "https://github.com/Pretty4672/Pterodactyl-Installer"
 echo ""
 echo "Security notice:"
 echo "This script connects to ipinfo.io to check IP address organization."
