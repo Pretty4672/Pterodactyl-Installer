@@ -1,6 +1,8 @@
 <h1 align="center"><strong>Pterodactyl Installer</strong></h1>
 
-With this script you can easily install, update or delete Pterodactyl Panel. Everything is gathered in one script.
+Dengan skrip ini Anda dapat dengan mudah memasang, memperbarui, atau menghapus Panel Pterodactyl. Semuanya dikumpulkan dalam satu skrip.
+
+Harap dicatat bahwa skrip ini dibuat untuk bekerja pada instalasi baru. Ada yang bagus
 
 Please note that this script is made to work on a fresh installation.
 There is a good chance that it will fail if it is not a fresh installation.
